@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Methods/Methods.csproj" />
+  <Project Path="TypeConversion/TypeConversion.csproj" Id="274b80b1-253f-4ade-bde2-ae7302df0d31" />
   <Project Path="Web/Web.csproj" />
 </Solution>
