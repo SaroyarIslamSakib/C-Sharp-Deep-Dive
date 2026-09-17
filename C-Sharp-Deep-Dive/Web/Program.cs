@@ -1,4 +1,5 @@
 ﻿#region Encapsulation
+using Inheritence.MethodHiding;
 using Methods.Encapsulation;
 using Methods.ParameterModifier;
 
@@ -30,4 +31,14 @@ int totalSalary3 = employee.CalculateSalary3(in bonus3);
 Console.WriteLine($"Total Salary: {totalSalary3}");
 
 employee.DisplaySkills("C#", "Java", "Python");
+#endregion
+
+#region Method Hiding
+Animal animal = new Animal();
+animal.Speak(); // Output: Animal speaks
+Dog dog = new Dog();
+dog.Speak(); // Output: Dog barks 
+
+Animal animalDog = new Dog();
+animalDog.Speak();
 #endregion

@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Inheritence/Inheritence.csproj" Id="fb9119e4-99fe-40c8-ae36-fc1f3d057d98" />
   <Project Path="Methods/Methods.csproj" />
   <Project Path="TypeConversion/TypeConversion.csproj" Id="274b80b1-253f-4ade-bde2-ae7302df0d31" />
   <Project Path="Web/Web.csproj" />
