@@ -1,8 +1,9 @@
 <Solution>
-  <Project Path="Abstraction/Abstraction.csproj" Id="6da88788-df4e-4596-a974-9268950fded7" />
-  <Project Path="Inheritence/Inheritence.csproj" Id="fb9119e4-99fe-40c8-ae36-fc1f3d057d98" />
-  <Project Path="Methods/Methods.csproj" />
-  <Project Path="NameSpaces/NameSpaces.csproj" Id="bae53317-b801-4f24-8133-625a5a0a1f08" />
-  <Project Path="TypeConversion/TypeConversion.csproj" Id="274b80b1-253f-4ade-bde2-ae7302df0d31" />
-  <Project Path="Web/Web.csproj" />
+  <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Abstraction/Abstraction.csproj" Id="6da88788-df4e-4596-a974-9268950fded7" />
+  <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Inheritence/Inheritence.csproj" Id="fb9119e4-99fe-40c8-ae36-fc1f3d057d98" />
+  <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Methods/Methods.csproj" />
+  <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/NameSpaces/NameSpaces.csproj" Id="bae53317-b801-4f24-8133-625a5a0a1f08" />
+  <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Partial_Static_Enumeration/Partial_Static_Enumeration.csproj" Id="a33d9ed5-c330-46de-8597-79d27ca68c93" />
+  <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/TypeConversion/TypeConversion.csproj" Id="274b80b1-253f-4ade-bde2-ae7302df0d31" />
+  <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Web/Web.csproj" />
 </Solution>
