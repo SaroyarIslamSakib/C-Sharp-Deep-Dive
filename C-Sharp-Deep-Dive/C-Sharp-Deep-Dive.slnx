@@ -8,4 +8,5 @@
   <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Web/Web.csproj" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="ca38260c-65e4-4c2b-b333-df900aa8924a" />
   <Project Path="Generics/Generics.csproj" Id="e81973ce-5310-4819-95de-cc113e192835" />
+  <Project Path="PatternMatching/PatternMatching.csproj" Id="bfffa2b6-fd12-4203-9259-d8994aeb791c" />
 </Solution>
