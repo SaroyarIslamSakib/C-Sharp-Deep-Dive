@@ -6,5 +6,6 @@
   <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Partial_Static_Enumeration/Partial_Static_Enumeration.csproj" Id="a33d9ed5-c330-46de-8597-79d27ca68c93" />
   <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/TypeConversion/TypeConversion.csproj" Id="274b80b1-253f-4ade-bde2-ae7302df0d31" />
   <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Web/Web.csproj" />
+  <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="ca38260c-65e4-4c2b-b333-df900aa8924a" />
   <Project Path="Generics/Generics.csproj" Id="e81973ce-5310-4819-95de-cc113e192835" />
 </Solution>
