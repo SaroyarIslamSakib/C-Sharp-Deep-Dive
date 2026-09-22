@@ -1,5 +1,7 @@
 ﻿#region Array
 //One Dimensional array
+using System.Net.Http.Headers;
+
 int[] IntArray = new int[5];
 int[] IntArray2 = { 10, 20, 30, 40, 50 };
 
@@ -18,4 +20,19 @@ List<int> temp = new() { 70, 80 };
 numbers.AddRange(temp);
 
 numbers.ForEach(x => Console.WriteLine(x));
+#endregion
+#region Dictionary
+Console.WriteLine("----------Dictionary Example-----------");
+Dictionary<int, string> data = new();
+
+data.Add(108, "Sakib");
+data.Add(105, "Jahir");
+data.Add(95, "Shuva");
+
+foreach(var key in data.Keys)
+{
+    Console.WriteLine(key);
+}
+string name = data[108];
+Console.WriteLine(name);
 #endregion

@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AnonymousType_Tuples/AnonymousType_Tuples.csproj" Id="5b82c5b9-95c4-4bb1-b4b8-55307fc0f134" />
   <Project Path="Collections/Collections.csproj" Id="3f6ef02b-364f-4c31-b588-d8f9992a00e8" />
   <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Abstraction/Abstraction.csproj" Id="6da88788-df4e-4596-a974-9268950fded7" />
   <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Inheritence/Inheritence.csproj" Id="fb9119e4-99fe-40c8-ae36-fc1f3d057d98" />
@@ -9,5 +10,6 @@
   <Project Path="E:/C-Sharp-Deep-Dive/C-Sharp-Deep-Dive/Web/Web.csproj" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="ca38260c-65e4-4c2b-b333-df900aa8924a" />
   <Project Path="Generics/Generics.csproj" Id="e81973ce-5310-4819-95de-cc113e192835" />
+  <Project Path="LINQ/LINQ.csproj" Id="c05083d8-321b-4012-80fd-f809aa3419fe" />
   <Project Path="PatternMatching/PatternMatching.csproj" Id="bfffa2b6-fd12-4203-9259-d8994aeb791c" />
 </Solution>
